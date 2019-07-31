@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micorservice-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-server-2001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-server-2002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-server-2003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-consumer-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-consumer-feign-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-provider-1001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-provider-1002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-provider-1003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-provider-hystrix-1004" charset="UTF-8" />
+  </component>
+</project>

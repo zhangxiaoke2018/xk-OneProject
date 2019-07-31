@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="micorservicecommon" />
+        <module name="microserviceeurekaserver2001" />
+        <module name="microserviceeurekaserver2002" />
+        <module name="microserviceeurekaserver2003" />
+        <module name="microservicestudentconsumer80" />
+        <module name="microservicestudentconsumerfeign80" />
+        <module name="microservicestudentprovider1001" />
+        <module name="microservicestudentprovider1002" />
+        <module name="microservicestudentprovider1003" />
+        <module name="microservicestudentproviderhystrix1004" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microserviceeurekaserver200" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
